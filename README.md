@@ -34,9 +34,5 @@ Hi, I'm Anurag, a Data Scientist 🚀 from India. Currently, I'm  learning ML, D
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-
-
-
-![Anurag' stats on github](https://github-readme-stats.vercel.app/api?username=anurag289&show_icons=true&hide_border=true)
-
+<code><img height="20" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"></code>
 
