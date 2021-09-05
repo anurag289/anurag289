@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/anurag-reddy-c-313a8b102/">
-  <img align="left" alt="Vasanth P LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Anurag's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/c.anuragreddy/">
   <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
