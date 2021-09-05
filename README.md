@@ -37,6 +37,6 @@ Hi, I'm Anurag, a Data Scientist 🚀 from India. Currently, I'm  learning ML, D
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=anurag289&show_icons=true&hide_border=true)
+![Anurag' stats on github](https://github-readme-stats.vercel.app/api?username=anurag289&show_icons=true&hide_border=true)
 
 
