@@ -15,7 +15,7 @@
 <br />
 
 
-Hi, I'm Anurag, a Data Scientist 🚀 from India. Currently, I'm  learning ML, DL, CV & NLP. Beside's programming, I enjoy playing games and blogging about latest technologies
+Hi, I'm Anurag, a Data Scientist 🚀 from India. Currently, I'm  learning ML, DL & NLP. Beside's programming, I enjoy playing games and blogging about latest technologies
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
