@@ -36,4 +36,6 @@ Hi, I'm Anurag, a Data Scientist 🚀 from India. Currently, I'm  learning ML, D
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"></code>
 <code><img height="20" src="https://cdn1.vectorstock.com/i/1000x1000/77/30/sql-database-icon-logo-design-ui-or-ux-app-vector-17507730.jpg"></code>
+<code><img height="20" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png"></code>
+<code><img height="20" src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png"></code>
 
