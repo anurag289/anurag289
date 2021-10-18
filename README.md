@@ -35,5 +35,5 @@ Hi, I'm Anurag, a Data Scientist 🚀 from India. Currently, I'm  learning ML, D
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fsql-database-icon-logo-design-ui-or-ux-app-vector-17507730&psig=AOvVaw2HgPG2FHclA8M_Exwvb5jc&ust=1634662857180000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiviOu31PMCFQAAAAAdAAAAABAD"></code>
+<code><img height="20" src="https://cdn1.vectorstock.com/i/1000x1000/77/30/sql-database-icon-logo-design-ui-or-ux-app-vector-17507730.jpg"></code>
 
