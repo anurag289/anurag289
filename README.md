@@ -27,7 +27,7 @@ Hi, I'm Anurag, a Data Scientist 🚀 from India. Currently, I'm  learning ML, D
 - 🤔 I’m somewhat fine with Machine Learning
 - 💬 Ask me about anything, I am happy to help to my knowledge
 - 📫 How to reach me: anurag289@hotmail.com
-- 📝[Resume](https://github.com/anurag289/anurag289/files/7367200/Anurag_Resume.pdf)
+- 📝[Resume]https://github.com/anurag289/anurag289/blob/main/Anurag_Resume.pdf)
 
 **Languages and Tools:**  
 
