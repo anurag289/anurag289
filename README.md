@@ -21,7 +21,7 @@ Hi, I'm Anurag, a Data Scientist 🚀 from India. Currently, I'm  learning ML, D
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on LAM RESEARCH;
+- 👨🏽‍💻 I’m currently working in SOCIETE GENERALE;
 - 🌱 I’m currently learning NLP
 - 👯 I’m happy to colloborate with Data Science community🤝
 - 🤔 I’m somewhat fine with Machine Learning
